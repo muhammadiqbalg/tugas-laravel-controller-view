@@ -10,7 +10,7 @@
                 <p>
                     I'm ready start my career to be Fullstack Web Developer
                 </p>
-                <a class="btn btn-dark mt-3 mb-3" href="{{ url('/') }}" role="button">About Me</a>
+                <a class="btn btn-dark mt-3 mb-3" href="{{ url('/profile') }}" role="button">About Me</a>
             </div>
             <div class="col">
                 <div class="text-center">
