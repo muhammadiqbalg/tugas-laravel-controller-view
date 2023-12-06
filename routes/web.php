@@ -23,3 +23,4 @@ Route::get('/', function () {
 Route::get('/', [LandingController::class, 'index']);
 Route::get('/profile', [ProfileController::class, 'index']);
 Route::get('/education', [EducationController::class, 'index']);
+
