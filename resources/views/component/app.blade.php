@@ -18,7 +18,7 @@
                         <a class="nav-link" href="{{ url('/profile') }}">About me</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Education</a>
+                        <a class="nav-link" href="{{ url('/education') }}">Education</a>
                     </li>
                 </ul>
             </div>
